@@ -1,0 +1,233 @@
+#first-page{
+    width: 1300px;
+    min-height: 738px;
+    background-image: url(background.jpg);
+    background-size: 1450px 738px;
+    background-repeat: no-repeat;
+    margin-bottom: 0%;
+}
+.nav{
+    width: 1300px;
+    min-height: 90px;
+    padding: 0%;
+    margin: 0%;
+}
+.logo{
+    width: 227px;
+    min-height: 90px;
+    margin-bottom: 0%;
+    display:inline-block;
+}
+.img1{
+    background-image: url(logo.png);
+    background-size: 180px 80px;
+    background-repeat: no-repeat;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.language{
+
+    margin-bottom: 0%;
+    display:inline-block;
+    vertical-align: top;
+}
+select{
+    width: 96px;
+    min-height: 39px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 760px;
+    color:white;
+    background-color: black;
+    opacity: 0.8;
+    border-radius: 5px;
+}
+.sign-in{
+    margin-bottom: 0%;
+    display:inline-block;
+    vertical-align: top;
+}
+.signin{
+    width: 90px;
+    min-height: 39px;
+    background-color: red;
+    color: white;
+    margin-top: 30px;
+    margin-left: 25px;
+    border-radius: 5px;
+    opacity: 0.8;
+}
+.main-text{
+    width: 1300px;
+    min-height: 390px;
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+    color: white;
+}
+h1{
+    font-size: 4pc;
+    font-family: sans-serif;
+    padding-top: 100px;
+    margin-bottom: 0%;
+}
+h2{
+    font-family:Arial;
+    font-size: 28px;
+    margin-top: 30px;
+    font-weight: 300;
+}
+h3{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: 300;
+    padding-top: 15px;
+}
+.search-bar{
+    width: 1300px;
+    min-height: 90px;
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+}
+input{
+    width: 500px;
+    min-height: 70px;
+    color: grey;
+    vertical-align: top;
+}
+.get-started{
+    background-color: #DC0510;
+    color: white;
+    border: solid 1px #DC0510;
+    width: 240px;
+    height: 75px;
+    font-size: 30px;
+    
+}
+#second-page{
+    width: 1300px;
+    height: 445px;
+    background-color: black;
+    vertical-align: top;
+    margin-top: 5px;
+}
+.display-two{
+    display:inline-block;
+}
+.text-display-two{
+    display:inline-block;
+    color: white;
+    padding-left: 20px;
+    width:620px;
+    vertical-align: top;
+
+}
+.text-one{
+    font-size: 3pc;
+    font-family: sans-serif;
+    padding-top: 70px;
+    margin-bottom: 0%;
+    font-weight: 600;
+}
+.text-one-v2{
+    font-size: 3pc;
+    font-family: sans-serif;
+    padding-top: 10px;
+    margin-bottom: 0%;
+    font-weight: 600;
+}
+.text-one-v3{
+    font-size: 3pc;
+    font-family: sans-serif;
+    margin-bottom: 0%;
+    font-weight: 600;
+}
+.text-two{
+    font-family: Arial;
+    font-size: 28px;
+    margin-top: 25px;
+    font-weight: 300;
+    
+}
+.image-display-two{
+    display:inline-block;
+    color: white;
+    width: 532px;
+    min-height: 323px;
+    background-image: url(displaytwo.png);
+    background-size: 532px 323px;
+    background-repeat: no-repeat;
+    margin-top: 45px;
+}
+.image-display-three{
+    display:inline-block;
+    background-image: url(displaythree.png);
+    background-size: 336px 331px;
+    background-repeat: no-repeat;
+    width: 449px;
+    height: 466px;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.text-display-three{
+    display:inline-block;
+    color: white;
+    margin-left: 120px;
+    vertical-align: top;
+}
+#third-page{
+    width: 1300px;
+    height: 300px;
+    background-color: black;
+    vertical-align: top;
+    margin-top: 5px;
+}
+.text-display-four{
+    display:inline-block;
+    color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+    vertical-align: top;
+}
+#fourth-page{
+    width: 1300px;
+    height: 500px;
+    background-color: black;
+    vertical-align: top;
+    margin-top: 5px;
+}
+.image-display-four{
+    display:inline-block;
+    background-image: url(displayfour.png);
+    background-size: 495px 399px;
+    background-repeat: no-repeat;
+    width: 449px;
+    height: 466px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.text-display-fifth{
+    display:inline-block;
+    color: white;
+    margin-left: 150px;
+    vertical-align: top;
+}
+#fifth-page{
+    width: 1300px;
+    height: 400px;
+    background-color: black;
+    vertical-align: top;
+    margin-top: 5px;
+}
+.FAQ{
+    display: inline-block;
+    padding: 40px;
+    margin-left: 60px;
+}
+.first-box{
+    display: inline-block;
+    color: grey;
+    margin-right: 120px;
+    font-family: Arial;
+}
